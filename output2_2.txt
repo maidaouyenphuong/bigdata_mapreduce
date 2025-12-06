@@ -1,0 +1,3 @@
+"Cairns" "1975.16"
+"Darwin" "1718.36"
+"CoffsHarbour" "1660.16"
